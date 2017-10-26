@@ -3,7 +3,7 @@ My Ds Mini Project implemented in C.
 
 
 A lexer is a first step of a compiler. The basic task of a lexer is to divide the given program into tokens.
-Tokens are nothing but different types of entitites in a basic programming langueage.
+Tokens are nothing but different types of entitites in a basic programming language.
 They are generally 
 1. Identifiers i.e. variables
 2. Keywords (for C there are 32 keywords)
